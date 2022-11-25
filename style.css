@@ -1,0 +1,38 @@
+.bgimg {
+    background-image: url("https://img.freepik.com/free-photo/top-view-arrangement-with-food-wooden-background_23-2148308806.jpg?w=1060&t=st=1668699262~exp=1668699862~hmac=5303c784f8b2ae3e33c6319e02077743cf3956bd8076e6766ccda3c252876f53");
+    height: 150vh;
+    background-size: cover;
+
+}
+
+.heading {
+    color: white;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    padding: 20px;
+}
+
+.layout {
+    background-color: blanchedalmond;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 15px;
+}
+
+.para {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    color: chocolate;
+}
+
+.bgr {
+    width: 150px;
+    height: 100px;
+}
+
+.inhead {
+    color: rgb(107, 78, 6);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
